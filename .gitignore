@@ -1,0 +1,3 @@
+derby.log
+data/*.csv
+data/derby.log
